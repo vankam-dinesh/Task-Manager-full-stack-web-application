@@ -1,6 +1,5 @@
 {
   "name": "frontend",
-  "proxy": "https://task-manager-full-stack-web-application-2.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
