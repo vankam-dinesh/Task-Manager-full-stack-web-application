@@ -9,7 +9,7 @@ A MERN application for basic tasks management.
 - [Tools and Technologies](#tools-and-technologies)
 - [Dependencies](#dependencies)
 - [Dev-dependencies](#dev-dependencies)
-- [Prerequisites](#prerequisites)
+- [Prerequisites](#prerequisites)                      
 - [Installation and setup](#installation-and-setup)
 - [Backend API](#backend-api)
 - [frontend pages](#frontend-pages)
