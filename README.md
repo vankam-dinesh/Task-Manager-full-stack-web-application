@@ -5,7 +5,7 @@ A MERN application for basic tasks management.
 
 ## Table of Contents
 
-- [Features](#features)
+- [Features](#features)                      
 - [Tools and Technologies](#tools-and-technologies)
 - [Dependencies](#dependencies)
 - [Dev-dependencies](#dev-dependencies)
